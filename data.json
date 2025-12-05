@@ -1,0 +1,80 @@
+[
+  {
+    "category": "Viviendas",
+    "img": "imgs//ImagenPortada2v2.jpg",
+    "badge": "Exclusivo New",
+    "title": "Málaga Towers Vision",
+    "location": "Málaga, Málaga Capital, España",
+    "beds": "1-6",
+    "bathrooms": 4,
+    "m2": 450,
+    "price": "2,850,000",
+    "description": "Málaga Towers – Vision, promoción de 73 viviendas de lujo de 1 a 4 habitaciones, y en primera línea de playa. Arquitectura vanguardista, desde 132 metros cuadrados. Destacan las zonas comunes con sus tres piscinas, una climatizada y dos exteriores, su exclusivo spa, gimnasio, sala audiovisual, coworking y ludoteca que hacen de esta una promoción que marcará un hito en el área metropolitana de Málaga. Su orientación y vistas panorámicas al mar resaltan su arquitectura, especialmente diseñada por el prestigioso estudio Lamela. Esta promoción con su diseño innovador tiene 21 plantas de altura haciendo que Málaga Towers – Vision destaque en la costa malagueña. Esta promoción se encuentra ubicada en una zona consolidada de Málaga y en pleno auge, a pocos minutos del centro de la ciudad, estación de tren, aeropuerto y zonas de ocio. Su magnífico enclave complementa la calidad de los detalles de Málaga Towers – Vision.",
+    "gallery": ["imgs//4Salonlat.jpg",
+        "imgs//5Comedor.jpg",
+        "imgs//7TerrazavistaMalaga.jpg",
+        "imgs//8Cocina.jpg"],
+    "features": { "bedrooms": "1-6", "bathrooms": 4, "size": 450, "year": 2023 }
+  },
+  {
+    "category": "apartment new",
+    "img": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+    "badge": "Nueva",
+    "title": "Penthouse en Primera Línea",
+    "location": "Estepona Marina",
+    "beds": 3,
+    "bathrooms": 2,
+    "m2": 180,
+    "price": "975,000",
+    "description": "Málaga Towers – Vision, promoción de 73 viviendas de lujo de 1 a 4 habitaciones, y en primera línea de playa. Arquitectura vanguardista, desde 132 metros cuadrados. Destacan las zonas comunes con sus tres piscinas, una climatizada y dos exteriores, su exclusivo spa, gimnasio, sala audiovisual, coworking y ludoteca que hacen de esta una promoción que marcará un hito en el área metropolitana de Málaga. Su orientación y vistas panorámicas al mar resaltan su arquitectura, especialmente diseñada por el prestigioso estudio Lamela. Esta promoción con su diseño innovador tiene 21 plantas de altura haciendo que Málaga Towers – Vision destaque en la costa malagueña. Esta promoción se encuentra ubicada en una zona consolidada de Málaga y en pleno auge, a pocos minutos del centro de la ciudad, estación de tren, aeropuerto y zonas de ocio. Su magnífico enclave complementa la calidad de los detalles de Málaga Towers – Vision.",
+    "gallery": ["imgs//4Salonlat.jpg",
+        "imgs//5Comedor.jpg",
+        "imgs//7TerrazavistaMalaga.jpg",
+        "imgs//8Cocina.jpg"],
+    "features": { "bedrooms": 5, "bathrooms": 4, "size": 450, "year": 2023 }
+  },
+  {
+    "category": "villa",
+    "img": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "badge": "Oportunidad",
+    "title": "Villa Clásica Andaluza",
+    "location": "Nueva Andalucía, Marbella",
+    "beds": 2,
+    "bathrooms": 2,
+    "m2": 550,
+    "price": "3,200,000"
+  },
+  {
+    "category": "apartment",
+    "img": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+    "badge": "Exclusivo",
+    "title": "Loft de Diseño Centro Histórico",
+    "location": "Casco Antiguo, Marbella",
+    "beds": 2,
+    "bathrooms": 2,
+    "m2": 150,
+    "price": "625,000"
+  },
+  {
+    "category": "apartment",
+    "img": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+    "badge": "Oportunidad",
+    "title": "Apartamento Golf Resort",
+    "location": "La Quinta, Benahavís",
+    "beds": 2,
+    "bathrooms": 2,
+    "m2": 120,
+    "price": "485,000"
+  },
+  {
+    "category": "villa new",
+    "img": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+    "badge": "Nueva",
+    "title": "Villa Moderna con Vistas al Mar",
+    "location": "Los Monteros, Marbella",
+    "beds": 4,
+    "bathrooms": 3,
+    "m2": 380,
+    "price": "1,950,000"
+  }
+]
